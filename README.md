@@ -2,7 +2,7 @@
   <img src="./banner.jpeg" alt="Banner de Julio San Juan Santander" width="100%">
 </p>
 
-<h1 align="center">Julio San Juan Santander</h1>
+
 
 <h3 align="center">
   Ingeniero Informático | Desarrollo Web, Backend e Inteligencia Artificial
