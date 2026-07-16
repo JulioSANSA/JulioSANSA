@@ -2,17 +2,21 @@
   <img src="./banner.jpeg" alt="Banner de Julio San Juan Santander" width="100%">
 </p>
 
-<h1 align="center">Hola, soy Julio San Juan 👋</h1>
+<h1 align="center">Julio San Juan Santander</h1>
+
+<h3 align="center">
+  Ingeniero Informático | Desarrollo Web, Backend e Inteligencia Artificial
+</h3>
 
 <p align="center">
-  Ingeniero Informático graduado por la Universidad Pontificia de Salamanca,
-  interesado en el desarrollo web, el backend y la inteligencia artificial.
+  Graduado en Ingeniería Informática por la Universidad Pontificia de Salamanca,
+  con especial interés en el desarrollo de software, las aplicaciones web
+  y la integración de inteligencia artificial.
 </p>
 
 <p align="center">
-  Actualmente busco una primera oportunidad profesional como desarrollador,
-  donde pueda aportar mis conocimientos, seguir aprendiendo
-  y participar en proyectos tecnológicos reales.
+  Busco una primera oportunidad profesional como desarrollador para aportar mis conocimientos,
+  seguir aprendiendo y participar en proyectos tecnológicos reales.
 </p>
 
 <p align="center">
@@ -26,7 +30,7 @@
 
 ---
 
-## 💡 Áreas de interés
+##  Áreas de interés
 
 <table>
 <tr>
@@ -34,7 +38,7 @@
 
 ### Desarrollo web
 
-Desarrollo de aplicaciones modernas, responsivas y adaptadas a distintos dispositivos con Angular, React, TypeScript, HTML y CSS.
+Desarrollo de aplicaciones modernas, responsivas y adaptadas a distintos dispositivos mediante Angular, React, TypeScript, HTML y CSS.
 
 </td>
 <td width="33%" valign="top">
@@ -54,7 +58,7 @@ Integración de inteligencia artificial en aplicaciones web, modernización de c
 </tr>
 </table>
 
-## 🚀 Proyectos destacados
+##  Proyectos destacados
 
 ### [Modernización de páginas web mediante IA](https://github.com/JulioSANSA/tfg-html-modernizer-ai)
 
@@ -86,13 +90,13 @@ Página web desarrollada para un negocio real, adaptada a dispositivos móviles 
 
 **Tecnologías:** Angular, TypeScript, HTML y CSS.
 
-## 🛠️ Tecnologías
+##  Tecnologías
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,cs,angular,react,fastapi,html,css,postgres,docker,git,github,vscode" alt="Tecnologías">
 </p>
 
-## 🎓 Formación y reconocimientos
+## Formación y reconocimientos
 
 - Graduado en Ingeniería Informática por la Universidad Pontificia de Salamanca.
 - Trabajo de Fin de Grado calificado con un **9,3**.
@@ -100,7 +104,7 @@ Página web desarrollada para un negocio real, adaptada a dispositivos móviles 
 - Trabajo presentado en DITTET 2026.
 - Publicación académica en proceso editorial con Springer.
 
-## 📫 Contacto
+## Contacto
 
 <p align="center">
   <a href="https://www.linkedin.com/in/julio-san-juan-santander-349123246/">
