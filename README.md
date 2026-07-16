@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Banner de Julio San Juan Santander" width="100%">
+  <img src="./banner.jpeg" alt="Banner de Julio San Juan Santander" width="100%">
 </p>
 
 <h1 align="center">Hola, soy Julio San Juan 👋</h1>
@@ -11,15 +11,16 @@
 
 <p align="center">
   Actualmente busco una primera oportunidad profesional como desarrollador,
-  donde pueda aportar mis conocimientos, seguir aprendiendo y participar en proyectos tecnológicos reales.
+  donde pueda aportar mis conocimientos, seguir aprendiendo
+  y participar en proyectos tecnológicos reales.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/julio-san-juan-santander-349123246/">
-    <img src="https://img.shields.io/badge/LinkedIn-Julio%20San%20Juan-0A66C2?logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Julio%20San%20Juan-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/JulioSANSA">
-    <img src="https://img.shields.io/badge/GitHub-JulioSANSA-181717?logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-JulioSANSA-181717?logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
@@ -73,7 +74,7 @@ Proyecto ganador de Hack4Edu, centrado en la aplicación de inteligencia artific
 
 ### PlayBeau
 
-Aplicación web desarrollada en equipo para la gestión de un centro de estética. Participé en funcionalidades relacionadas con empleados, perfiles, balances y navegación.
+Aplicación web desarrollada en equipo para la gestión de un centro de estética. Participé en el desarrollo de funcionalidades relacionadas con empleados, perfiles, balances y navegación mediante una interfaz adaptada a distintos dispositivos.
 
 **Tecnologías:** Angular, TypeScript, HTML, SCSS y PrimeNG.
 
@@ -88,7 +89,7 @@ Página web desarrollada para un negocio real, adaptada a dispositivos móviles 
 ## 🛠️ Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,cs,angular,react,fastapi,html,css,postgres,docker,git,github,vscode">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,cs,angular,react,fastapi,html,css,postgres,docker,git,github,vscode" alt="Tecnologías">
 </p>
 
 ## 🎓 Formación y reconocimientos
@@ -103,6 +104,6 @@ Página web desarrollada para un negocio real, adaptada a dispositivos móviles 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/julio-san-juan-santander-349123246/">
-    <img src="https://img.shields.io/badge/LinkedIn-Contactar-0A66C2?logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Contactar-0A66C2?logo=linkedin&logoColor=white" alt="Contactar por LinkedIn">
   </a>
 </p>
